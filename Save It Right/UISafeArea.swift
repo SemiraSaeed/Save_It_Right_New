@@ -2,7 +2,7 @@
 //  UISafeArea.swift
 //  SaveItRight
 //
-//  Created by Shouq Turki Bin Tuwaym on 06/02/2023.
+//  Created by Semira Saeed on 06/02/2023.
 //
 
 import SwiftUI

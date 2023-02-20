@@ -2,7 +2,7 @@
 //  Warranty+CoreDataProperties.swift
 //  Save It Right
 //
-//  Created by Shouq Turki Bin Tuwaym on 19/02/2023.
+//  Created by Semira Saeed on 19/02/2023.
 //
 //
 

@@ -2,7 +2,7 @@
 //  EmptyCategory.swift
 //  Save_It_Right
 //
-//  Created by Shahad BaMakhshab on 06/02/2023.
+//  Created by Semira Saeed on 06/02/2023.
 //
 
 import SwiftUI

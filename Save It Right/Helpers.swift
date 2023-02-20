@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Save_It_Right
 //
-//  Created by Shouq Turki Bin Tuwaym on 05/02/2023.
+//  Created by Semira Saeed on 05/02/2023.
 //
 
 import SwiftUI

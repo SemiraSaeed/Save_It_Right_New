@@ -2,7 +2,7 @@
 //  WarrantyPage.swift
 //  Save_It_Right
 //
-//  Created by Shouq Turki Bin Tuwaym on 09/02/2023.
+//  Created by Semira Saeed on 09/02/2023.
 //
 
 import SwiftUI
