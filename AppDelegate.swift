@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Save It Right
 //
-//  Created by Shouq Turki Bin Tuwaym on 20/02/2023.
+
 //
 
 import UIKit
